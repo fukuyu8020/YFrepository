@@ -1,0 +1,58 @@
+﻿<repository
+id="0f90fccf-34b0-473b-99e1-9e9a213b1334"
+name="MyTest1Repository">
+	<codegen
+	classname="MyTest1Repository"
+	namespace="MyTest1">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="fc7fa791-29fa-419d-b20b-cc60bb1d8543"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="a7200a9f-2396-455a-b138-3e5bcd125f0f"
+		isrooted="True"
+		name="GitRanorex"
+		refpath="/dom[@domain='www.ranorex.com']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,imgtag"
+			capname="imgtag"
+			id="8a0c57d3-77bd-4a85-9a15-f91ae27eef78"
+			name="HttpsWwwRanorexComRxMediaRxUser"
+			refimgid="e8d7e8ef-a17e-48ac-b9e0-cf9225ea1808"
+			refpath="/dom[@domain='www.ranorex.com']//div[#'et_builder_outer_content']/div/div/div[6]/div/div/span/img[@src='https://www.ranorex.com/rx-media/rx-user-guide/v8.3/E40/E4010-0000030.png']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.ranorex.com']//div[#'et_builder_outer_content']/div/div/div[6]//img[@src='https://www.ranorex.com/rx-media/rx-user-guide/v8.3/E40/E4010-0000030.png']
+			</item>
+			<basepath>
+				/dom[@domain='www.ranorex.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
