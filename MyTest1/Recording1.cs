@@ -79,41 +79,21 @@ namespace MyTest1
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 373;260.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(0));
-            repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("373;260");
-            Mouse.ButtonDown(System.Windows.Forms.MouseButtons.Left);
-            Delay.Milliseconds(0);
-            
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Up item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 416;327.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(1));
-            repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("416;327");
-            Mouse.ButtonUp(System.Windows.Forms.MouseButtons.Left);
-            Delay.Milliseconds(0);
-            
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 528;351.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(2));
-            repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("528;351");
-            Mouse.ButtonDown(System.Windows.Forms.MouseButtons.Left);
-            Delay.Milliseconds(0);
-            
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Up item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;913.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(3));
-            repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("1241;913");
-            Mouse.ButtonUp(System.Windows.Forms.MouseButtons.Left);
-            Delay.Milliseconds(0);
-            
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(4));
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(0));
             repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("1241;902");
             Mouse.ButtonDown(System.Windows.Forms.MouseButtons.Left);
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Up item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(5));
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Up item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(1));
             repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("1241;902");
             Mouse.ButtonUp(System.Windows.Forms.MouseButtons.Left);
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(6));
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;902.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(2));
             repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.Click("1241;902");
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Right Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;913.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(7));
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Right Down item 'GitRanorex.HttpsWwwRanorexComRxMediaRxUser' at 1241;913.", repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUserInfo, new RecordItemIndex(3));
             repo.GitRanorex.HttpsWwwRanorexComRxMediaRxUser.MoveTo("1241;913");
             Mouse.ButtonDown(System.Windows.Forms.MouseButtons.Right);
             Delay.Milliseconds(0);
